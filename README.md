@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Slava, and I'm currently studying web development at Becode.
+My name is Slava and I'm currently studying web development at Becode.
 
 📫 How to Reach Me:
 * [LinkedIn](https://www.linkedin.com/in/viacheslav-steshchenko/)
