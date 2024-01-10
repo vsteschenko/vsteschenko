@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+My name is Slava and I'm currently studying web development at Becode.
+📫 How to Reach Me:
+* [LinkedIn:] (https://www.linkedin.com/in/viacheslav-steshchenko/)
+  
 <!--
 **vsteschenko/vsteschenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
